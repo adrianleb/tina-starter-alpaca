@@ -7,6 +7,8 @@ Tina Starter Alpaca is a NextJS documentation responsive theme, easily customiza
 
 Go to [https://tina-starter-alpaca.now.sh](https://tina-starter-alpaca.now.sh/ "https://tina-starter-alpaca.now.sh/") to give it a spin.
 
+![](public/images/animoji.jpg)
+
 ## Blocks
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mattis et nibh vel blandit. Fusce sit amet volutpat purus. Pellentesque finibus sapien sit amet tortor sagittis, sit amet rhoncus erat aliquet. Cras efficitur quam eu turpis rhoncus aliquam. Suspendisse ultricies, arcu at lobortis lobortis, massa nulla faucibus eros, quis lacinia orci justo a ipsum. Suspendisse faucibus venenatis laoreet.
