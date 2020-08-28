@@ -2,22 +2,6 @@
   "config": [
     {
       "type": "link",
-      "slug": "test",
-      "title": "test",
-      "id": "xszvqagqe",
-      "children": []
-    },
-    {
-      "type": "link",
-      "key": "getting-started",
-      "slug": "getting-started",
-      "title": "Getting Started",
-      "position": 0,
-      "id": "1",
-      "children": []
-    },
-    {
-      "type": "link",
       "key": "features",
       "slug": "features",
       "title": "Features",
@@ -112,6 +96,22 @@
           "children": []
         }
       ]
+    },
+    {
+      "type": "link",
+      "key": "getting-started",
+      "slug": "getting-started",
+      "title": "Getting Started",
+      "position": 0,
+      "id": "1",
+      "children": []
+    },
+    {
+      "type": "link",
+      "slug": "test",
+      "title": "test",
+      "id": "xszvqagqe",
+      "children": []
     },
     {
       "type": "link",
